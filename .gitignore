@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de Python y caché
+__pycache__/
+*.pyc
+
+# Base de datos local
+ambiental.db
+
+# Variables de entorno (si las tienes)
+.env
